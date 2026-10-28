@@ -1,7 +1,7 @@
 # PROMPT_LOG
 
 ## Initial prompt
-"Ask an Claude to write a Python script that loads device_summary.json
+"Asked Claude to write a Python script that loads from "output/device_summary.json"
 and generates a bar chart comparing the average temperature per device using matplotlib.
 "
 
